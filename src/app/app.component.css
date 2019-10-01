@@ -1,0 +1,13 @@
+/* MAIN COMPONENT CSS */
+
+.form {
+  margin-bottom: 3em;
+}
+
+.ui.segment:first-child {
+  margin-top: 3em;
+}
+
+.ui.segment:last-child {
+  margin-bottom: 3em;
+}
