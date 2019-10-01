@@ -11,3 +11,7 @@
 .ui.segment:last-child {
   margin-bottom: 3em;
 }
+
+.ui.footer > div > p > a.me {
+  color: #fff;
+}
